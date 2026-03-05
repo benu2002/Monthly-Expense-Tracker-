@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Expenses Tracker",
+  "description": "A premium, mobile-first expense tracking suite with multiple financial tools, dark mode, and local storage persistence.",
+  "requestFramePermissions": []
+}
